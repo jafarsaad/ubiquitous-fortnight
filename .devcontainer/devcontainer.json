@@ -1,0 +1,5 @@
+https://github.com/jafarsaad/Jsc1.git{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
